@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011599182418",
+    "firebase_url": "https://rest-ad9e5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rest-ad9e5",
+    "storage_bucket": "rest-ad9e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011599182418:android:d47dddfa817803689b6d8b",
+        "android_client_info": {
+          "package_name": "rest.company.a123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011599182418-outshsg7kuiffgnejkdbfhgtg97pho2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm8XETiizsZi5JGEvo1V0GXzdfjJ9TQXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011599182418-outshsg7kuiffgnejkdbfhgtg97pho2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

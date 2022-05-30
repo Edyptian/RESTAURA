@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="forgot_password">Password</string>
+    <string name="has_o">haslo</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="logowanie">Logowanie</string>
+    <string name="register">register</string>
+    <string name="nazwa_restauracji">nazwa restauracji</string>
+    <string name="rodzaj_kuchni">rodzaj kuchni</string>
+    <string name="godziny_otwarcia">godziny</string>
+    <string name="adress">adress</string>
+    <string name="telefon">telefon</string>
+    <string name="Zapisz">zapisz</string>
+    <string name="rejestracja">rejestracja</string>
+</resources>
